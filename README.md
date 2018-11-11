@@ -5,4 +5,8 @@ Program that uses Machine Learning to predict house prices based on historical d
 * Price of house is computed using the following equation: y = w0 + w1.x1 + w2.x2 + w3.x3 + w4.x4
 * Inverse is being computed using the Gauss-Jordan Elimination method.
 
+All use of this code must comply with the Rutgers University Code of Student Conduct.
+
+
+
 
