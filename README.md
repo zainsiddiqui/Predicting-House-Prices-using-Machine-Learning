@@ -8,3 +8,8 @@ We splitted overall housing data into train and test with percentage of 70 and 3
 Project Web Application is also developed with help of flask <a href = "https://github.com/RizwanMunawar/Python-Web-App-Flask-ML-Model">Link</a>
 
 Also application is deployed on heroku as well <a href = "https://housespricepredictions.herokuapp.com/">Link</a>
+
+<b> Future Updates </b>
+
+You can use deep learning model on dataset to check and cross verfiy your result and accuracy can be increased as well.
+
