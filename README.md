@@ -1,23 +1,16 @@
-# Predicting-House-Prices-using-Machine-Learning
-Program that uses Machine Learning to predict house prices based on historical data. The algorithm that is being implemented is known as **"One-shot learning"** which is linear regression with the least square error as the error measure.
+<b>Predicting-House-Prices-using-Machine-Learning</b>
 
-* Project uses C programming language.
-* Price of house is computed using the following equation: y = w0 + w1.x1 + w2.x2 + w3.x3 + w4.x4
-* Inverse is being computed using the Gauss-Jordan Elimination method.
+Program that uses Machine Learning to predict house prices based on USA Housing Data.<br>
+We splitted overall housing data into train and test with percentage of 70 and 30 and got accuracy of 88% average.<br>
+I attached both extension for files (.ipynb and .py) so it depend on you which you want to use if you are using simple python so better to use .py extension file and if you are working on anaconda Navigator/Jupyter so you can use .ipynb extension file.<br>
+Also I have added pickle file that can be used as backend for( Web Application, Android Application etc).<br>
+Project Web Application is also developed with help of flask <a href = "https://github.com/RizwanMunawar/Python-Web-App-Flask-ML-Model">Link</a><br>
+Also application is deployed on heroku as well <a href = "https://housespricepredictions.herokuapp.com/">Link</a><Br>
+if you want more detail about how this project will be implementated.Visit <a href = "https://medium.com/how-to-built-and-deploy-machine-learning-model/building-deploying-machine-learning-model-using-pickle-d5ad5c979acd">Link</a>
 
-**Sample Training Data:**
-![image](https://user-images.githubusercontent.com/39894720/48307600-5608d880-e51e-11e8-903c-550f576e3394.png)
+<b> Future Updates </b>
 
-**Sample Test Data:**
-![image](https://user-images.githubusercontent.com/39894720/48307606-805a9600-e51e-11e8-8fbe-6155486ede5d.png)
-
-**Sample Price Output:**
-
-![image](https://user-images.githubusercontent.com/39894720/48307608-8f414880-e51e-11e8-9b5b-938b43a7c121.png)
-
-
-All use of this code must comply with the Rutgers University Code of Student Conduct.
-
+You can use deep learning model on dataset to check and cross verfiy your result and accuracy can be increased as well.<br>
 
 
 
